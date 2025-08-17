@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/robigusmery/count.svg"/>
+  <img src="https://profile-counter.deno.dev/:robigusmery:/count.svg" alt="Visitor's Count" />
 </div>
 
 ---
@@ -144,5 +144,6 @@ Figma                      57 hrs 9 mins   █░░░░░░░░░░░�
 </p>
 
 ---
+
 
 
