@@ -117,7 +117,11 @@ Figma                      57 hrs 9 mins   █░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/robigusmery/robigusmery/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robigusmery/robigusmery/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robigusmery/robigusmery/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/robigusmery/robigusmery/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -140,3 +144,4 @@ Figma                      57 hrs 9 mins   █░░░░░░░░░░░�
 </p>
 
 ---
+
