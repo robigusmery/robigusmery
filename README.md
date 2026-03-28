@@ -30,7 +30,7 @@
 
 ---
 
-### 💼 About Me
+## 💼 About Me
 
 Welcome to my GitHub! I'm currently focused on growing as a full-stack developer and network engineer, with strong interests in scalable backend systems, network infrastructure, routing, and security. I enjoy experimenting with frontend frameworks, backend logic, and database design, and I’m always open to collaborative projects and learning opportunities.
 
