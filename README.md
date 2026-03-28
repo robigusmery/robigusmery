@@ -25,18 +25,30 @@
 </h2>
 
 <p align="center">
-  🚀 Developer • 🎮 Gamer • 💡 Tech Enthusiast
+  🚀 Developer • 🌐 Network Engineer • 🎮 Gamer • 💡 Tech Enthusiast
 </p>
 
 ---
 
 ### 💼 About Me
 
-Welcome to my GitHub! I'm currently focused on becoming a full-stack developer. I enjoy experimenting with frontend frameworks, backend logic, and database design, and I’m always open to collaborative projects and learning opportunities.
+Welcome to my GitHub! I'm currently focused on growing as a full-stack developer and network engineer, with strong interests in scalable backend systems, network infrastructure, routing, and security. I enjoy experimenting with frontend frameworks, backend logic, and database design, and I’m always open to collaborative projects and learning opportunities.
 
 ---
 
 ## ⚒️ Tech Stack
+
+## 🌐 Networking & Infrastructure
+<p>
+  ### 🌐 Networking & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PfSense-212121?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-FF6F00?style=flat-square&logoColor=white"/>
+</p>
 
 ### 💻 Languages
 <p>
