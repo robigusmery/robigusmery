@@ -36,11 +36,11 @@ Welcome to my GitHub! I'm currently focused on growing as a full-stack developer
 
 ---
 
-## ⚒️ Tech Stack
+### ⚒️ Tech Stack
 
 ## 🌐 Networking & Infrastructure
 <p>
-  ### 🌐 Networking & Infrastructure
+  ## 🌐 Networking & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
